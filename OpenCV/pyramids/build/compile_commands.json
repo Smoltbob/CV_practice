@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jules/Documents/OpenCV/test/build",
+  "command": "/usr/bin/clang++-9    -g   -o CMakeFiles/hello.dir/main.cpp.o -c /home/jules/Documents/OpenCV/test/main.cpp",
+  "file": "/home/jules/Documents/OpenCV/test/main.cpp"
+}
+]
