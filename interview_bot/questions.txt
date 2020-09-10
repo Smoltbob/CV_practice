@@ -1,0 +1,699 @@
+
+# Customer Obsession
+## How do you show your customer obsession?
+Ask for lots of feedback, look for what could be better.
+- logging system
+- live demo
+- give a presentation
+
+## Tell me about a time you handled a difficult customer
+- studying with exigeant prof
+- logging system
+- c# project with Caron
+
+## How do you wow your customers?
+Try to make life more convenient.
+Be proactive, try to think of their problems before they do.
+- live demo
+- battleship game
+
+## How do you develop client relationships?
+Ask for feedback, stay in touch
+
+## How do you understand your customer’s needs?
+Ask for feedback, empathy, my own experience
+- logging system
+- qr code
+- battleship
+
+## Tell me about a time you used customer feedback to change the way you worked
+### Ex 1
+When I was working at my first internship.
+
+At the end of the internship, he summoned me for a debrief. He told me he was overall quite satisfied with my performance, and in fact I had cleared the original internship task faster than he had anticipated. However he told me I was just too shy and too passive, and that for my future contracts I should make sure to be more proactive, and that was eye-opening for me. I always followed this advice and became a more dynamic coworker.
+
+
+### Ex 2
+A few months ago I had to give a presentation about my work to a public that had no technical knowledge.
+
+I wanted my communication to be as understandable as possible, so I made sure to give it in a simple high-level form.
+
+They still told me it wasn't understandalble, so I improved.
+
+## Tell me about a time you had to compromise to satisfy a customer
+Creaform: wanted to try ML but we stayed with traditional CV bc of speed, reliability and préjugés. 
+
+## How do you get to an understanding of what a customer's needs are ?
+I ask for feedback, use previous works, imagine.
+- logging system
+- case study on modbus
+
+## How do you honestly pursue customer feedback, no just looking for compliments ?
+Specifically ask for what can be improved.
+### Ex 1
+At Pfeiffer
+
+# Ownership
+Show responsability, don't sacrifice long-term for short-term.
+Consider future outcomes, never say it's not your job.
+
+Helping others ?
+
+## Tell me about a time you identified an issue everyone else overlooked.
+
+
+## Provide an example of when you personally demonstrated ownership.
+- fractal project
+- o
+
+## Tell me about a time you went above and beyond.
+- making a live demo
+- writing a paper + going to present at SERI
+- logging system
+- fractal project
+
+## Tell me about a time when you took on something significant outside your area of responsibility. Why was it important? What was the outcome?
+- getting involved at AECSP
+
+
+## Describe a project or idea (not necessarily your own) that was implemented primarily because of your efforts. What was your role? What was the outcome?
+- graph project
+- vision project
+
+## Give an example of when you saw a peer struggling and decided to step in and help. What was the situation and what actions did you take? What was the outcome?
+- setting up computers
+- learning french
+- writing repport (arabic to french)
+
+### Ex 1
+At my work place there are about 70% percent phd students and 30% grad students. Virtually all of them have academic backgrounds and not engineering like I do, so I often saw them struggling to do "basic" tasks.
+
+I often help them with command line applications, ssh, etc and I'm gradually writing a wiki page for our team where newcomers can find common useful information.
+
+As a result everyone is working more efficiently. That proved very useful during the quarantine as we have to work from home, accessing our computers through SSH.
+
+
+## Time when you helped someone in their work.
+I often help my coworkers in their work. For instance, if they need some of my expertise. Ex: Alexandre asks me for my color model.
++ talk about wiki
+
+## Time when you helped someone grow in career and it benefited them.
+During my first year of studying at university the son of my landlords was working on his business buying and reselling high end minerals to museums and collectors.
+
+I practice photography for ten years now, so he asked me for help taking pictures of his minerals. At first, I took the product shots myself for him.
+Then I taught him photography 101.
+
+As a result, he had a nice website and since then he's kept himself up to date. Now he's looking at photogrametry and 3D scanning.
+
+## Time when you helped someone grow but did not benefit them.
+??
+
+## Have you ever gone out of your way to help a peer? (ownership)
+Help Adrien
+Help Roza
+Help friends learn French
+
+## Tell me about a time you had to help a team member struggling with a task.
+- graph project
+
+## How would you help a new employee who is facing technical difficulties?
+- What I did when new teammate Xi came int
+
+
+# Invent and Simplify
+Show that you can identify problems and solutions.
+Show that you can simplify processes.
+
+## Tell me about a time when you invented something / came up with a novel solution.
+- Talk about paper 2 : less data
+- Using OpenCV : remove in-house libraries
+- AI Hackathon
+
+I also like being creative, in an artistic way
+
+## What improvements have you made at your current company? 
+- using Slack 
+- wiki page
+
+## Tell me about a time when you gave a simple solution to a complex problem.
+- graph problem (explain solution)
+- decision tree for colors    
+
+## Tell me about a time you had to think outside the box (think creatively) to close a sale or sell your product.
+- fractal & compiler
+- live demo
+
+## What is the most innovative project you’ve worked on?
+- paper 2 (explain why)
+
+## Tell me about a time when you innovated and exceeded the expectation
+## Ex 1
+Using XKCD
+
+I wanted to allow users of this model to use it in the most natural way.
+
+## Ex 2
+Using saliency
+
+I wanted to allow users of this model to save money on annotations.
+
+
+# Are Right, A Lot
+Show you trust your instincts
+
+## Time when you pushed back a decision from your management for better long term benefits.
+None
+When chosing the language for the project, I chose OCaml instead of Java or C.
+    
+## Time when your team members were not supporting something but you pushed and went for a more optimal solution.
+
+### Ex 1
+Maybe choosing OpenCV, however I don't know about the long term benefits (secrecy).
+
+### Ex 2
+Choosing OCaml
+
+## Tell me about a situation where you had a conflict with someone on your team. What was it about? What did you do? How did they react? What was the outcome?
+### Example 1
+During my first year of grad studies, I was working on a software engineering project.
+We had to develop a compiler.
+
+One of my responsabilities was to manage our team, in addition to working on the project the project of course.
+One of my team mates was often quite confrontational. He was also very clever, especially good in math but he didn't know how to colaborate and communicate. I think maybe he wanted to be leader in my place.
+
+It wasn't pleasant but I ended up making compromises for him because I wanted him to be on the team with us and not cut him. 
+
+It worked well, we gave a good final product.
+
+### Example 2
+During the compiler project, I wanted to have team meetings.
+I'm a morning person, but so I set the meetings every morning at 8h30.
+Most people came, however litteraly after two days it became clear this was too eatly for most people, and alread some of them didn't really want to participate in the first place.
+So I proposed that we shifted the meetings at 11h, but that everyone made sure to come. They were happy with this situation, and even though I knew a friend of mine would have rather stayed home, he made sure to come.
+
+## Tell me about a time when your teammate didn't agree with you? What did you do?
+## Ex 1
+Graph project
+
+## Ex 2
+How to plot results in graphs
+
+
+## Tell me about when you did not accept the status quo
+
+## If your manager asked you to do something you disagreed with, how would you handle it ?
+
+## Tell me about a time when you thought of an unpopular idea.
+## Ex 1
+Using Slack at the lab.
+
+## Ex 2
+Using OpenCV3 at Creaform
+
+## Tell me about a time where you thought you were right, but you team or supervisor didn't. How did you convince them ? How did they react ? What was the outcome ?
+Using OpenCV
+
+## Time when you did not have enough data and had to use judgement to make decision. Give two or three examples
+- When chosing schools
+- Hackathon
+
+## Tell me about a time you had multiple solutions and you had to select an optimal one
+### Ex 1
+Building an object classifier for FA
+They were looking for detecting protests and fires.
+
+Choices: 
+- crowd counting
+- ML model
+- segmentation for fires
+
+I chose to combine the two models into one, as it is more optimal for the agency : 
+
+- easier to maintain
+- performs all detections in one pass
+
+### Ex 2
+Choosing between languages for compiler project.
+
+Choices:
+- C
+- Java
+- OCaml
+
+## Tell me about a time when you had to decide upon something without consulting your superior.
+When I work, I often try my ideas before asking him, and if it workds well, then I ask him if it would make sense to move forward.
+I don't want to waste his time asking if I can implement ideas that turn out to be pointless.
+
+
+## Have you ever been in a situation where you had to make a choice among a few options, but did not have a lot of time to explore each option
+I was participatign with to a hackathon.
+
+We had to write an AI, and because we didn't have time to think too much, we just went with the most intuitive solution. So we chose the solution that would allow guarantee us to get results.
+
+We ended up sticking with it and just improving it.
+
+It gave great results.
+
+
+## Tell me about a time where you had to make a decision based on limited information and how it impacted the outcome.
+I refered to the experience of my peers.
+
+## Tell me about a time where you did not know something and how you tackled it
+## Ex 1 
+Making a live demo
+
+## Ex 2
+Making an ML model for XKCD.
+
+I very often don't know something. I like having ideas and then trying to figure out how I'd do it (rather than starting from what I know).
+So I chose my idea I want to work on and then I try to figure out how to do it.
+For instance: idea about using XKCD.
+When I'm stuck, I ask my peers for pointers on how they'd deal with it, until I have a pool of my own and their ideas. Then I start learning.
+
+## Time when you failed to meet your commitment, committed a mistake
+### First mistake
+During my internship at Pfeiffer Vacuum I was working on a system for generating automatically logs about production machines and serve it as HTML tables embeded to emails.
+
+To do so, I was pooling from a service that was agregating sensor data from the production line. However, I forgot to clean up, so intermediate data accumulated into the server and hogged all of its resources. What I didn't know is that it was a critical server for running operations as well because there was basically only one server.
+
+When I arrived the following day, there was talks about machines having stopped,etc and my supervisor quickly realised it was from me. It cost a few hours of downtime in the early morning. He took responsability for this and kindly told me that I should test more next time.
+
+Now I'm absolutely taking care of doing dry runs in a controlled environment to be confident that there will be no side effects, and I stay aware that there can be side effects, so I should be able to identify them faster.
+
+### Second mistake
+During my work in the lab, I was working on  a method that requires to visualize a neural network's decision. I used a method I found on github, that was published alongside a paper.
+
+This method gave me good results when I tried it, which is that you could clearly see in images the places the network was looking at. So I used it.
+
+Then by doing further reading (name paper) a few weeks later, I realized that this method (name method) was actually basically useless, but that due to my confirmation bias, I just assumed it did. I felt stupid, and thankfully I could find an alternative that gave me a similar performance.
+
+I could have lost weeks of work, or maybe even have to rethink my whole approach if I hadn't found an alternative. So now I'd like to have as much data or even better, formal proofs that a method does what it says, especially when it's shiny and new.
+
+### Third failure
+Failure to have video working
+
+### Fourth failure
+Graph theory
+
+# Hire and Develop the Best
+- What is your experience with hiring people?
+
+- How do you ensure you hire the best people?
+
+- Give me an example of one of the best hires of your career. How did this person grow throughout their career? What did you identify during the hiring process that drove her success?
+
+- How do you help your employees grow?
+
+- Tell me how you help your team members develop their careers. Can you give me two to three examples of a specific person in whom you invested and how you helped them develop their careers, including one who wasn’t being successful but in whom you saw potential and chose to invest?
+
+- Give me an example of a time you provided feedback to develop and leverage the strengths of someone on your team. Were you able to positively impact that person’s performance? What were your most effective methods?
+
+- How do you manage your top performers differently?
+
+- Give me an example of someone who was promoted one or two levels up in the organization, not just because they were a star who would naturally rise, but due to your coaching efforts. 
+
+- What is the composition of your current team, and how is your team organized?
+
+# Learn and Be Curious
+Tell about something you've learned recently.
+Ask how you can grow at Amazon
+Show that you help everyone grow
+
+Pick a subject: Islamic Golden Age
+
+I love learning anything.
+I've taken courses in:
+- German
+- Crochet
+- Music Theory
+- Piano
+- Acting in movies
+- Oral Communication
+- Swing dancing
+- Swedish Massage
+- Arabic
+
+
+## Tell me about a time when you learned new technologies
+Learning OCaml
+
+## A project you're proud of
+### Ex1
+My master project. Not every grad student writes papers and has them published in peer reviewed conferences. I'm proud to have a tangible proof that my work si good.
+
+### Ex2
+Heart rate monitor
+
+### Ex3 
+Learning Arabic
+
+## How do you stay inspired, acquire new knowledge, or innovate in your work?
+I like having a broad knowledge and don't get stuck in a hole.
+When I stumble upon somehting interesting, I read it and it stays with me.
+
+- paper2
+
+## What can you teach me in 5 minutes that I don’t already know?
+- First programmable machine from 
+
+## Tell me about a time when you influenced change by only asking questions.
+
+## Tell me about a time when you solved a problem through just superior knowledge or observation.
+
+## Tell me something interesting you've learned recently.
+Islamic Golden age from 8th to 14th.
+Lots of cool inventions: Canons of Medicine, Theory of Evolution, Book of Ingenious Devices.
+
+# Insist on the highest standards
+Connected to ownership.
+You can always find something to improve.
+
+## Tell me about a time when you’ve been unsatisfied with the status quo. What did you do to change it? Were you successful? 
+- using slack
+- using opencv
+
+## Tell me about a time you wouldn’t compromise on achieving a great outcome when others felt something was already good enough. What was the situation? 
+- add two player in battleship
+
+## What measures have you personally put in place to ensure performance improvement targets and standards are achieved? 
+- grad work process
+
+## Describe the most significant, continuous improvement project that you’ve led. What was the catalyst for this change and how did you go about it?
+
+## Give me an example of a goal you’ve had where you wish you had done better. What was the goal and how could you have improved on it? 
+- android project
+
+## Tell me about a time when you worked to improve the quality of a product / service / solution that was already getting good customer feedback? Why did you think it needed more improvement?
+- logging system
+
+# Think big
+Linked to invent.
+Think of seemingly impossible ideas
+Ex: improve detail page with more visual features; or add a TL;DR; simulate a house in which you place the product
+Be ambitious and set no limits on your goals.
+Be creative, positive, fearless.
+Take a radical approach and risks, explore new ideas from coworkers.
+
+## Tell me about a time you took a calculated risk in order to achieve a professional goal. What were the tradeoffs? What was the outcome?
+- paper 2
+
+
+## Tell me about a time you took a big risk and it failed. What did you learn? What would you do differently? 
+- adding video to drone
+
+
+## Tell me about a time you went way beyond the scope of the project and delivered.
+- live demo
+
+## Tell me about your proudest professional achievement.
+- compiler project
+- getting a publication
+
+## Give me an example of a radical approach to a problem you proposed. What was the problem and why did you feel it required a completely different way of thinking about it? Was your approach successful? 
+- socle pour mineraux: instead of 3D scan shape, go from ground to shape
+
+
+## How do you drive adoption for your vision/ideas? How do you know how well your idea or vision has been adopted by other teams or partners? Give a specific example highlighting one of your ideas. 
+- using slack
+
+
+## Tell me about time you were working on an initiative or goal and saw an opportunity to do something much bigger than the initial focus.
+- live demo
+- fractal project
+
+## Tell me about a time you looked at a key process that was working well and questioned whether it was still the right one. What assumptions were you questioning and why? Did you end up making a change to the process? 
+- opencv
+
+## Time when you went above and beyond your job responsibilities.
+### Ex 1
+During my very first internship, I was 19 at this time, and it was an internship centered on doing a case study for supervision tools. These tools were supposed to gather metrics about the factory. 
+
+When looking at how this data would be used, I realized technicians were just browsing a document. Instead, I thought I could save them a few minutes every day by sending this data in a nice HTML table in their email inbox.
+
+So I learned how to use Powershell (I didn't know about scripting back then and I really loved object oriented shell scripting), as they worked with windows, and wrote some proof of concepts.
+
+My supervisor really liked and asked me to survey the team to see what they think of it. They gave me some feedback on the kind of data they require, then I implemented it and we set up my scripts to be ran every morning.
+
+### Ex 2
+Live demo
+
+### Ex 3 
+Presentation at SERI
+
+## Tell me a time you took some on some risk
+### Ex 1
+Moving from France to Canada.
+
+### Ex 2
+Using OCAML
+
+### Ex 3
+Going for a thesis by article
+
+
+# Bias for Action
+Try to implement ideas ASAP
+Don't be afraid of making decisions.
+
+## Tell me about a time you had to make a decision with incomplete information. How did you make it and what was the outcome?
+- hackathon
+- starting with paper 1
+- logging system
+
+## Describe a time you had to make an important decision on the spot to close a sale.
+
+## Describe a situation where you made an important business decision without consulting your manager. What was the situation and how did it turn out?
+
+## Tell me about a time when you had to analyze facts quickly, define key issues, and respond immediately to a situation. What was the outcome?
+- hackathon
+
+## Tell me about a time when you have worked against tight deadlines and didn't have the time to consider all options before making a decision. How much time did you have? What approach did you take?
+
+## Give an example of when you had to make an important decision and had to decide between moving forward or gathering more information. What did you do? What information is necessary for you to have before acting?
+
+## Describe a time when you saw some problem and took the initiative to correct it rather than waiting for someone else to do it.
+
+## Tell me about a time you needed to get information from someone who wasn’t very responsive. What did you do?
+
+
+
+
+# Frugality
+Talk about my project of using less data, or reusing previous parts
+Creaform: use OpenCV instead of in house.
+
+## Tell me about a time where you thought of a new way to save money for the company.
+
+## Describe a time when you had to manage a budget (or manage time/money/resources/etc.). Were you able to get more out of less?
+
+## Here at Amazon we are frugal – how will you manage projects with no budget and no resources?
+
+## Tell me about a time when you had to work with limited time or resources.
+
+# Earn Trust
+"Tell me about a time you made a serious mistake at work."
+"Tell me how that project you were leading failed."
+
+## Time when you were 75% through a project and realized you had the wrong goal.
+### Preparing a speech about my work
+I focused on talking about my work in details, explaining why it's awesome etc.
+
+Then I took an oral communication class to practice.
+The prof showed me that she couldn't even understand what I was doing and what I was talking about. That was because my goal was to talk about myself, whereas I should have focused much more on understanding my audience. How are they ? What do they know ? What do they want to know ?
+
+Now, I have this checklist 
+Yes and it was a situation when I litteraly had the wrong goal, you'll see.
+
+I wanted to develop a method that would focus in images.
+Talk about loss function in paper 2.
+
+FIND CLEARER EXAMPLE
+
+## Received negative feedback from manager and how you responded.
+My managers never gave me a lot of negative feedback. During my first internship, at the end, my manager gave me advice, which I appreciated and followed. 
+
+However nowadays when I submit my papers to peer-reviewed conferences, I recieve feedback from the reviewing commitee.
+The feedback is often negative, as reviewers tend to focus more on points of improvement.
+I follow the advice quite closely.
+When someone gives critisms, it means they spend time looking at your work and that they believe in can be made better.
+
+
+## Tell me about a time when your earned your teammate's trust?
+SPECIFIC EXAMPLE
+I earn their trust during daily interactions by being honest with myself and with them.
+
+I often chat with my teammates about ideas so we often challenge each other to make sure our ideas are valid.
+So when I'm wrong I thank them for explaining or if I didn't get it, I ask them to explain me.
+When I don't something I say I don't know, so that when I say something, they trust that I know about what I'm talking about.
+I always credit and quote my teammates when I talk about their ideas or their thoughts.
+
+## Tell me about a time you had to earn trust quickly.
+
+## Building trust can be difficult to achieve at times. Tell me about how you’ve effectively built trusting working relationships with others on your team. 
+
+## Describe a time when you significantly contributed to improving morale and productivity on your team. What were the underlying problems and their causes? How did you prevent them from negatively impacting the team in the future? 
+
+## Give an example of a time where you were not able to meet a commitment to a team member. What was the commitment and what prevented you from meeting it? What was the outcome and what did you learn from it? 
+
+## Describe a time when you needed the cooperation of a peer or peers who were resistant to what you were trying to do. What did you do? What was the outcome?
+
+## Tell me about a piece of direct feedback you recently gave to a colleague. How did he or she respond? 
+
+## How do you like to receive feedback from coworkers or managers?
+
+## Tell me about a time when someone (peer, teammate, supervisor) criticized you about a piece of work/analysis that you delivered. How did you react? What was the outcome?
+
+## Tell me about a time when you had to tell someone a harsh truth.
+
+## Tell me about a time you had to communicate a big change in direction for which you anticipated people would have a lot of concerns. How did you handle questions and/or resistance? Were you able to get people comfortable with the change? 
+
+## How do you convince someone who is resistant to what you’re trying to do?
+
+# Dive Deep
+Make sure I can explain what my teammates are doing.
+Show that you can go deep to fix issues.
+
+## Give me an example of when you used data to make a decision/solve a problem.
+
+## Tell me a time you gave insights beyond the data.
+
+## Have you ever leveraged data to develop strategy?
+
+## Tell me about a time you were trying to understand a problem on your team and you had to go down several layers to figure it out. Who did you talk with and what info proved most valuable? How did you use that info to help solve the problem?
+
+## Tell me about a problem you had to solve that required in-depth thought and analysis. How did you know you were focusing on the right things?
+
+## Walk me through a big problem in your organization that you helped to solve. How did you become aware of it? What info did you gather, what was missing, and how did you fill the gaps? Did you do a post mortem analysis and what did you learn?
+
+## Can you tell me about a specific metric you’ve used to identify a need for change in your department? Did you create the metric or was it readily available? How did this and other info influence the change?
+
+# Have Backbone
+Show that you disagree based on data.
+
+## Describe a situation where other members of your team didn’t agree with your ideas. What did you do?
+
+## Tell me about a situation where you had a conflict with someone on your team. What was it about? What did you do? How did they react? What was the outcome?
+
+## Tell me about a time when you did not accept the status quo.
+
+## Tell me about an unpopular decision of yours.
+
+## Tell me about a time when you had to step up and disagree with a team member’s approach.
+
+## If your direct manager was instructing you to do something you disagreed with, how would you handle it?
+
+## Describe a situation where you thought you were right, but your peers or supervisor did not agree with you. How did you convince them that you were right? How did you react? What was the outcome?
+
+# Deliver Results
+Look at the big pictures, the effect of the product instead of just local metrics.
+Be pragmatic
+Respect deadlines
+
+## Describe a situation where you had to face a particularly challenging situation while working on a project and what you did to overcome it. (Note: The challenge could be with respect to timeline, scope, people, or a combination thereof.)
+
+## How you check your progress against your goals?
+
+## Do you set and communicate smart team goals, expectations, and priorities; help employees stay focused/help others remove barriers/roadblocks towards meeting team goals?
+
+## Tell me about a time when you were able to persevere through setbacks and overcome obstacles to deliver outstanding results.
+
+## Tell me about a time where you not only met the goal but considerably exceeded expectations. How were you able to do it?
+
+## What’s the most complex problem you’ve ever worked on? 
+
+## Have you ever worked on something really hard and then failed?
+
+## How do you check your progress against your goals ?
+I set a timeline for my project.
+I also have a project journal where I write both my successes and my setbacks.
+
+For instance at the hackathon my goals were...
+
+## Do you set and communicate smart team goals ?
+During the compiler project, I organized quick team meetings in the morning.
+This allowed me to see where everyone was going, and also to adjust goals according to their feedback.
+We also assigned roles according to skills.
+
+## Tell me about a time when you excedeed your goals.
+When I had to write a report but I wrote a jupyer demo / web demo.
+
+## Have you ever worked really hard and failed ?
+Failure to make video work on the drone
+In my undergrad, I had a software engineering project where I had to write and Android app to communicate and control a drone by sending it *TCP* packets.
+The drone had a decent communication so it went well, until I decided I'd like to stream the video from its cameras.
+
+I never managed to get a decent stream. I felt like I tried everything, analysing the the flow using wireshark, trying different payloads, different image processing libraries, I also tried to look for open source projects doing similar things, with no success.
+
+Trying all this, I learned a lot about networking abd debuging.
+
+## Most complex problem you've ever worked on ?
+The compiler project.
+
+
+## Tell me about a time you faced an obstacle and how you overcame it.
+Learning english and joining an international master
+
+Failure at graph theory exam -> retook a smilar class the year after
+
+### Ex 3
+I was working on building a speedometer for a model train using an old PS/2 mouse.
+
+This was done using an FPGA and the VHDL programming language to essentially write a hardware interface for the mouse and expose it as a linux driver.
+
+I had tons of difficulties communicating with the mouse (using a state machine) and stayed super late with my prof.
+
+In the end, I managed to have the speedometer working.
+
+
+### Ex 4
+This winter I had to give a presentation at at SERI.
+
+I used to be anxious when talking in public, so that was a challenge.
+
+I followed a course in oral communication and learned some interesting techniques.
+
+Now I definetely feel more comfortable.
+
+## Tell me about a time when you needed help from someone during a project.
+Working on the math project
+
+
+## A time when you faced a setback initially but still achieved the goal.
+Working at creaform : all the pb with libraries etc
+
+## A Tell me about a time when you felt under pressure that you wouldn't be able to get something done or had to take a pivot at the last minute
+
+When I was working on a battleship game. Ditched AI for human player.
+
+## Tell me about a time when you couldn't meet your deadline?
+The most extreme one was during my undergrad. I was working on a math project on heat transfer with a friend.
+
+We had to leave the school at 10pm and ran accross campus to my dorm, where we decided to stop the project and run some late tests until the last minute!
+
+Now I can see deadlines approach from farther away.
+I was working with the intent to submit my work at the ICPR conference.
+About two weeks before the deadline, I decided it wasn't useful to push for better results, even though, that would have been great, and instead I made sure my current results were robust and spent more time writing the paper.
+
+ I knew I wanted to improve my metrics. However it became clear that I wouldn’t have the time to do so. Therefore I developed a method for catching failure cases and improve the robustness of my work, even though its performance hasn’t changed, but it was a way of telling my readers and reviewers that I’m aware of my work’s shortcomings.
+
+When I can, always try to aim for an early dummy deadline. It’s naive but it removes that feeling of comfort you get from long deadlines.
+
++ time when you had to cut corners
++ how do you handle tight deadlines
+
+
+# Time when you were working on a project on a time constraint
+### Ex 1
+Heart rate monitor
+
+### Ex 2
+Paper
+
+
+## Tell me about yourself. x3 Tell me about a project you're working on.
+Note: have several projects
+
+
+
+
+
