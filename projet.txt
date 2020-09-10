@@ -1,0 +1,82 @@
+# Papier 1
+## *S*ituation
+When I was starting as a research assistant last year, 
+
+## *T*ask
+I was tasked with developing a method for captioning images of pedestrians.
+
+## *A*ction
+I quickly found that there were no methods currently for assigning precise colors. So I remembered a comic I read from Randal Munroe, in which he asked his readers to label patches of colors.
+He had made the results of the survey available, and it turns out it was by far bigger than any datasets on colors.
+Then I I trained a decision tree on this data.
+
+## *R*esult
+I achieved state of the art results on this task, using a model that is much less computationaly intensive than other methods.
+
+
+# Papier2
+## Situation
+Still working on my master
+
+## Task
+My task was to develop a method for captioning images of pedestrian. This often requires complex machine learning models that require lots of data.
+
+## Action
+I remember reading about explanation methods, that allow us to kind of "debug" neural networks by highlighting which parts of the input (image) played the bigger role in making a prediction.
+So I though we could use this information for sampling masks.
+
+## Result
+I developed a method competitive with state of the art.
+
+# Robot
+## Situtation
+In my first year as a grad student, I enrolled in a computer vision and robotics course.
+
+## Task
+We had to work on a project in which we programmed a robot assistant. It had a lidar at ground level and we wanted to use this lidar to detect groups of persons.
+
+## Action
+We used clustering methods to detect the feet and then pairs of feet.
+
+## Results
+It worked, although it wasn't robust to groups of people. Which doesn't matter, as long as it detected them.
+
+ 
+# Compilateur
+## Situation
+Software Engineering project.
+
+## Task
+We had to write a compiler for the MinCaml language.
+
+## Action
+We worked.
+
+## Result 
+I worked well, including optimisations
+
+## TODO
+Revoir:
+- l'architecture du compilateur
+- mes tâches
+- les tâches de chacun
+- le mincaml / l'ocaml
+
+# Github
+## Situation
+There is an institute in the UK called Forensic Architecture. They are non-profit and aim to use open access data to highlight and give proof of human rights abuses. I discovered this agency while I was following the Syrian civil war, and they had released a study on a gas attack on Douma in 2018, during on of the last pushes of the Russian army.
+
+## Task
+I saw that they have a public discord as well as a github repository, so I asked how I can help.
+They told me they are looking to add new analyses to their tool.
+
+## Action
+Using my experience in computer vision, I adapted models developed by other researchers to FA's framework.
+
+## Results
+Now we can detect protests, violence and fires.
+# Hackathon
+
+
+# Projet avec nathanael
+# Study for final
